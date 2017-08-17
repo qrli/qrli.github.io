@@ -1,1 +1,4 @@
 theme: jekyll-theme-modernist
+site:
+  title: qrli
+  show_downloads: false
