@@ -1,4 +1,4 @@
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
 site:
   title: qrli
   show_downloads: false
