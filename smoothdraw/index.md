@@ -8,7 +8,8 @@ Support many kinds of brushes (pen, pencil, dry media, airbrush, bristle brush, 
 
 ![screenshot](images/sd_shot4.jpg)
 
-## Downloads
+
+## Download
 * [SmoothDraw 4.1.4 Beta (zip 2MB)](SmoothDraw4Beta.zip) - Win 7 SP1, Win 8/8.1/10, .NET Framework 4.6
 * [SmoothDraw 4.0.5 (zip 2MB)](SmoothDraw4.zip) - XP SP3/Vista SP1/Win7, .NET Framework 4.0
 
