@@ -11,3 +11,7 @@ It will also generate the 128x128 level if your source image is equal to or larg
 
 ## Download
 [SimplyIcon 1.1](SimplyIcon.zip) - .NET Framework 2.0
+
+
+-------------------------
+{% include footer.html %}
