@@ -51,3 +51,7 @@ New for 4.0.1
 * New design direction and new UI
 * Localization by JSON files (Anyone now can create translations by copying and modifying these JSON text files. Just put them in a subfolder named after ISO culture name. E.g. de-DE, fr-FR, ru-RU.)
 * Upgraded to .NET Framework 4.0
+
+
+-------------------------
+{% include footer.html %}
