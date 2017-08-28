@@ -3,6 +3,8 @@ title: Index
 ---
 
 ## Software Tools
-### [SmoothDraw: A freehand drawing tool](smoothdraw/)
-### [SimplyIcon: A .ico converter](simplyicon/)
+### [SmoothDraw](smoothdraw/)
+A freehand drawing/sketching tool for Windows Desktop.
 
+### [SimplyIcon](simplyicon/)
+An easy .ico converter to generate high resolution icons.
